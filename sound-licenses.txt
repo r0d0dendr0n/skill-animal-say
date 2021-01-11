@@ -1,0 +1,14 @@
+# https://freesound.org
+file,based_on,modified,download_site,licence_url
+sheep-orig.wav,,no,https://freesound.org/people/trouby/sounds/362392/,https://creativecommons.org/licenses/by/3.0/
+sheep-01.wav,sheep-orig,yes,https://freesound.org/people/trouby/sounds/362392/,https://creativecommons.org/licenses/by/3.0/
+sheep-02.wav,sheep-orig,yes,https://freesound.org/people/trouby/sounds/362392/,https://creativecommons.org/licenses/by/3.0/
+sheep-03.wav,sheep-orig,yes,https://freesound.org/people/trouby/sounds/362392/,https://creativecommons.org/licenses/by/3.0/
+sheep-04.wav,sheep-orig,yes,https://freesound.org/people/trouby/sounds/362392/,https://creativecommons.org/licenses/by/3.0/
+sheep-05.wav,sheep-orig,yes,https://freesound.org/people/trouby/sounds/362392/,https://creativecommons.org/licenses/by/3.0/
+sheep-06.wav,sheep-orig,yes,https://freesound.org/people/trouby/sounds/362392/,https://creativecommons.org/licenses/by/3.0/
+goat-01.wav,,no,https://freesound.org/people/poodaddy69/sounds/495688/,https://creativecommons.org/publicdomain/zero/1.0/
+cat-01.wav,,no,https://freesound.org/people/skymary/sounds/412017/,http://creativecommons.org/publicdomain/zero/1.0/
+dog-01.wav,,no,https://freesound.org/people/Juan_Merie_Venter/sounds/327666/,http://creativecommons.org/licenses/by-nc/3.0/
+cow-01.wav,,no,https://freesound.org/people/Benboncan/sounds/58277/,http://creativecommons.org/licenses/by/3.0/
+chicken-01.wav,,no,https://freesound.org/people/dersuperanton/sounds/435882/,http://creativecommons.org/licenses/by/3.0/
